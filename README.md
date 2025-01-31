@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codest40; 🚀 Aspiring Top 1% DevOps Engineer | DevSecOps Enthusiast
+- 👋 Hi, I’m @codest40; 🚀 Aspiring Top 1% DevOps Engineer | DevSecOps Enthusiast | Cloud 
 - 👀 I’m interested in DevOps & Cloud Engineering 🌩️, DevSecOps & Security Automation 🔒, CI/CD Pipelines & Infrastructure as Code (IaC) 🛠️, System Monitoring & Automation 📊
 - 🌱 I’m currently learning Linux, Shell Scripting, and Python for automation 🐧🐍, Advanced DevOps methodologies & best practices 🏗️, Security in DevOps (DevSecOps) 🔐
 - 💞️ I’m looking to collaborate on DevOps Projects, contributing to open-source, and learning from the community. Let's build something amazing!
