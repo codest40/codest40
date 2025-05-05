@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @codest40; 🚀 Aspiring Top 1% DevOps Engineer | DevSecOps Enthusiast | Cloud 
-- 👀 I’m interested in DevOps & Cloud Engineering 🌩️, DevSecOps & Security Automation 🔒, CI/CD Pipelines & Infrastructure as Code (IaC) 🛠️, System Monitoring & Automation 📊
-- 🌱 I’m currently learning Linux, Shell Scripting, and Python for automation 🐧🐍, Advanced DevOps methodologies & best practices 🏗️, Security in DevOps (DevSecOps) 🔐
-- 💞️ I’m looking to collaborate on DevOps Projects, contributing to open-source, and learning from the community. Let's build something amazing!
-- 📫 How to reach me -->  Email: generalcatmouse@gmail.com
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: I love automating everything; if I have to do it twice, I'd rather script it! 🖥️🚀
+- I’m @codest40, a junior DevOps Engineer.
+
+- I'm passionate about Cloud Engineering, DevSecOps, and automating modern infrastructure — from CI/CD pipelines to Infrastructure as Code (IaC) and system monitoring.
+
+- Currently learning and sharpening skills in Linux, Shell Scripting, and Python for automation, while diving deep into advanced DevOps methodologies and security best practices.
+
+-  I’m open to collaborating on DevOps and open-source projects, and always eager to learn from the community. 
+
+-  How to reach me:
+Email: generalcatmouse@gmail.com
+🌍 Website: https://cloudserve.duckdns.org
+
+- Pronouns: He/Him
+- ⚡ Fun fact: I love automating everything — if I have to do it twice, I'd rather script it! 🖥️🚀
 
 <!---
 codest40/codest40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
