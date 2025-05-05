@@ -7,7 +7,7 @@
 -  I’m open to collaborating on DevOps and open-source projects, and always eager to learn from the community. 
 
 -  How to reach me:
-Email: generalcatmouse@gmail.com
+Email: rundailytest@gmail.com
 🌍 Website: https://cloudserve.duckdns.org
 
 - Pronouns: He/Him
