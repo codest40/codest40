@@ -2,7 +2,7 @@
 
 - I'm passionate about Cloud Engineering, DevSecOps, and automating modern infrastructure — from CI/CD pipelines to Infrastructure as Code (IaC) and system monitoring.
 
-- Currently learning and sharpening skills in Linux, Shell Scripting, and Python for automation, while diving deep into advanced DevOps methodologies and security best practices.
+- Currently learning and sharpening skills in Linux, Shell Scripting, github, Python for automation, Docker while diving deep into advanced DevOps methodologies and security best practices.
 
 -  I’m open to collaborating on DevOps and open-source projects, and always eager to learn from the community. 
 
