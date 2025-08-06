@@ -1,14 +1,13 @@
-- I’m Mark, a Fullstack dev, junior DevSecOps Engineer.
+- I’m Mark — a Fullstack Developer and Junior DevOps Engineer with a strong passion for automation and secure infrastructure.
 
-- I'm passionate about DevSecOps, creating secure and automated modern infrastructure — from CI/CD pipelines to Infrastructure as Code (IaC) and system monitoring.
+- I enjoy building modern web applications end-to-end while integrating robust CI/CD pipelines, Infrastructure as Code (IaC), and system observability.
 
-- Currently learning and sharpening skills in Linux, Shell Scripting, github, Python for automation, Docker while diving deep into advanced DevOps methodologies and security best practices.
+- Currently sharpening my skills with Python for automation, working with Docker, and going deeper into advanced DevOps, DevSecOps, and security best practices.
 
--  I’m open to collaborating on DevOps, DevSecOps, Cloud and open-source projects, and always eager to learn from the community. 
+-  I’m open to collaborating on Fullstack, DevOps, Cloud, and open-source projects, and I’m always eager to learn from the tech community.
 
 -  How to reach me:
 Email: rundailytest@gmail.com
-🌍 Website: https://cloudserve.duckdns.org
 
 - Pronouns: He/Him
 
