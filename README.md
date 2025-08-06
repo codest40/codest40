@@ -11,7 +11,7 @@ Email: rundailytest@gmail.com
 
 - Pronouns: He/Him
 
--  Fun fact: Automate everything, and derive the joy!
+-  Fun fact: Automate everything, and derive the joy each time!
 
 <!---
 codest40/codest40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
