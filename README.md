@@ -11,7 +11,7 @@ Email: rundailytest@gmail.com
 
 - Pronouns: He/Him
 
-- ⚡ Fun fact: I love automating everything — if I have to do it twice, I'd rather script it! 🖥️🚀
+- ⚡ Fun fact: I love automating everything — if I have to do it twice, I'd rather script it!
 
 <!---
 codest40/codest40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
