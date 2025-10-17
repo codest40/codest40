@@ -11,7 +11,7 @@ Email: aniokemark@gmail.com
 
 - Pronouns: He/Him
 
--  Fun fact: Automate everything!
+-  Fun fact: Automate, automate, automate!
 
 <!---
 codest40/codest40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
