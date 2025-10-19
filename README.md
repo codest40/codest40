@@ -4,12 +4,10 @@
 
 - Equipped with Bash, Python for automation, working with Docker, Jenkins, and currently going deeper into very advanced DevOps, DevSecOps, and security best practices.
 
--  I’m open to collaborating on Backend, Fullstack, DevOps, Cloud, and open-source projects, and I’m always eager to learn from the tech community.
+-  I’m open to collaborating on Backend, Fullstack, DevOps, Cloud, and open-source projects, and I’m always eager to learn and do more.
 
 -  How to reach me:
 Email: aniokemark@gmail.com
-
-- Pronouns: He/Him
 
 -  Fun fact: Build once -->> Automate it -->> Keep Debugging!
 
