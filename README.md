@@ -2,7 +2,7 @@
 
 - I enjoy building modern web applications end-to-end while integrating robust CI/CD pipelines, Infrastructure as Code (IaC), and system observability.
 
-- Equipped with Bash, Python for automation, working with Docker, Jenkins, and currently going deeper into very advanced DevOps, DevSecOps, and security best practices.
+- Equipped with Bash, Python for automation, working with Docker, compose, Git, Github actions, Jenkins, Terraform, Ansible, kubernetes, and currently going deeper into very advanced DevOps, DevSecOps, and security best practices.
 
 -  I’m open to collaborating on Backend, Fullstack, DevOps, Cloud, and open-source projects, and I’m always eager to learn and do more.
 
