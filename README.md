@@ -1,4 +1,4 @@
-- I’m Mark — a Backend Developer and Junior DevOps Engineer with a strong passion for automation and secure infrastructure.
+- I’m Mark — a Backend Developer and DevOps Engineer with a strong passion for automation and secure infrastructure.
 
 - I enjoy building modern web applications end-to-end while integrating robust CI/CD pipelines, Infrastructure as Code (IaC), and system observability.
 
