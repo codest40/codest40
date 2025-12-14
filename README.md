@@ -1,4 +1,4 @@
-- I’m Mark — a DevOps Engineer and Python Backend Developer with a strong passion for automation and secure infrastructure.
+- I’m Mark, a DevOps Engineer and Python Backend Developer with a strong passion for automation and secure infrastructure.
 
 - I enjoy building modern web applications end-to-end while integrating robust CI/CD pipelines, Infrastructure as Code (IaC), and system observability.
 
