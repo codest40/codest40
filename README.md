@@ -8,6 +8,6 @@
 
 - I’m open to collaborating on Backend, Platform, DevOps, Cloud, and open-source projects that value engineering depth and clean automation.
 
-- 📫 Reach me: aniokemark@gmail.com
+- Reach me: aniokemark@gmail.com
 
 - Fun fact: {{ build_once }} → automate_it() → {{ debug.enabled | default("forever") }} 
