@@ -10,4 +10,4 @@
 
 - 📫 Reach me: aniokemark@gmail.com
 
-- Fun fact: {{ build_once }} → automate_it() → debug.enabled = {{ true | default("forever") }} 
+- Fun fact: {{ build_once }} → automate_it() → {{ debug.enabled | default("forever") }} 
