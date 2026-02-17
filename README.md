@@ -2,7 +2,7 @@
 
 - I design and build internal PaaS platforms, production-ready systems, and modern web applications end-to-end, backed by strong CI/CD pipelines, Infrastructure as Code, and observability from day one.
 
-- My daily tools include Bash, Python, Docker, Git/GitHub Actions, Terraform, Ansible, Kubernetes, and SRE tooling, and I spend most of my time going deep into platform engineering, DevSecOps, and infrastructure reliability at scale.
+- My daily tools include Bash, Python, Docker, Git/GitHub Actions, Terraform, Ansible, Kubernetes, and SRE tooling, and I am going deep into platform engineering, AI intergration and infrastructure reliability at scale.
 
 - I enjoy troubleshooting issues around automation, repeatability, and system ownership — turning fragile setups into stable platforms teams can trust.
 
