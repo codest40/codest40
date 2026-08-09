@@ -2,7 +2,7 @@
 
 * I design and build systems end-to-end — from **Linux and Python automation** to **AWS infrastructure, Kubernetes platforms, CI/CD, Infrastructure as Code, GitOps, observability, and application delivery**.
 
-* My daily tools include **AWS, Bash, Python, Docker, Kubernetes, Helm, Terraform, Ansible, Git/GitHub Actions, Argo CD, Prometheus, Grafana, Alertmanager, and Node Exporter**, alongside Python backend technologies such as **Flask, FastAPI, PostgreSQL, and WebSockets**.
+* My daily tools include **AWS, AZURE, Bash, Python, Docker, Kubernetes, Helm, Terraform, Ansible, Git/GitHub Actions, Argo CD, Prometheus, Grafana, Alertmanager, and Node Exporter**, alongside Python backend technologies.
 
 * I work across **cloud infrastructure, Linux systems, Kubernetes platforms, automation, observability, and reliability engineering**, with hands-on experience in system diagnostics, performance analysis, incident troubleshooting, and production failure analysis.
 
