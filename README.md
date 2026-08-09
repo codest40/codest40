@@ -1,13 +1,16 @@
-- I’m Mark — a DevOps & Platform Engineer with strong Python backend roots, focused on building automated, secure, and reliable infrastructure.
+* I’m Mark — a **DevOps & Platform Engineer** with strong **Python backend and Linux systems roots**, focused on building reliable infrastructure, internal platforms, automation, and observable production systems.
 
-- I design and build internal PaaS platforms, production-ready systems, and modern web applications end-to-end, backed by strong CI/CD pipelines, Infrastructure as Code, and observability from day one.
+* I design and build systems end-to-end — from **Linux and Python automation** to **AWS infrastructure, Kubernetes platforms, CI/CD, Infrastructure as Code, GitOps, observability, and application delivery**.
 
-- My daily tools include Bash, Python, Docker, Git/GitHub Actions, Terraform, Ansible, Kubernetes, and SRE tooling, and I am going deep into platform engineering, AI intergration and infrastructure reliability at scale.
+* My daily tools include **AWS, Bash, Python, Docker, Kubernetes, Helm, Terraform, Ansible, Git/GitHub Actions, Argo CD, Prometheus, Grafana, Alertmanager, and Node Exporter**, alongside Python backend technologies such as **Flask, FastAPI, PostgreSQL, and WebSockets**.
 
-- I enjoy troubleshooting issues around automation, repeatability, and system ownership — turning fragile setups into stable platforms teams can trust.
+* I work across **cloud infrastructure, Linux systems, Kubernetes platforms, automation, observability, and reliability engineering**, with hands-on experience in system diagnostics, performance analysis, incident troubleshooting, and production failure analysis.
 
-- I’m open to collaborating on Backend, Platform, DevOps, Cloud, and open-source projects that value engineering depth and clean automation.
+* I enjoy taking **fragile or manual infrastructure and turning it into repeatable, observable, and automated systems** that teams can depend on — from provisioning and deployment to monitoring, troubleshooting, and operational reliability.
 
-- Reach me: aniokemark@gmail.com
+* My engineering interests span **Platform Engineering, SRE, infrastructure reliability, Linux systems, cloud architecture, Kubernetes, and AI-assisted infrastructure engineering**.
 
-- Fun fact: {{ build_once }} → automate_it() → {{ debug.enabled | default("forever") }} 
+* I’m open to collaborating on **Platform, DevOps, SRE, Cloud, Backend, Infrastructure, and open-source projects** that value engineering depth, clean automation, and reliable systems.
+
+* Reach me: [aniokemark@gmail.com](mailto:aniokemark@gmail.com)
+
