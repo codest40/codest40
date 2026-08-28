@@ -92,8 +92,7 @@ Distributed Systems · Infrastructure Reliability · Failure Analysis · Capacit
 
 I'm always interested in collaborating on **SRE, infrastructure reliability, distributed systems, cloud platforms, automation, observability, backend systems, and open-source engineering**.
 
-📧 **[aniokemark@gmail.com](mailto:aniokemark@gmail.com)**
+**Email Address:** **[aniokemark@gmail.com](mailto:aniokemark@gmail.com)**
 
 **LinkedIn:** [linkedin.com/in/anioke-mark-7a0373237](https://linkedin.com/in/anioke-mark-7a0373237) **
 
-**Portfolio:** [portfolio-markams-projects.vercel.app](https://portfolio-markams-projects.vercel.app)
