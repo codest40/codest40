@@ -94,5 +94,5 @@ I'm always interested in collaborating on **SRE, infrastructure reliability, dis
 
 **Email Address:** **[aniokemark@gmail.com](mailto:aniokemark@gmail.com)**
 
-**LinkedIn:** [linkedin.com/in/anioke-mark-7a0373237](https://linkedin.com/in/anioke-mark-7a0373237) **
+**LinkedIn:** [linkedin.com/in/anioke-mark-7a0373237](https://linkedin.com/in/anioke-mark-7a0373237) 
 
