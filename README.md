@@ -35,50 +35,32 @@ That is why I am interested in understanding the relationship between:
 
 **Validate → Deploy → Load → Latency → Queueing → Saturation → Errors → Failure Propagation → Recovery**
 
-I care about:
 
-* Detecting meaningful signals before degradation becomes a larger incident.
-* Understanding latency behavior beyond simple averages.
-* Identifying saturation and capacity constraints.
-* Preventing failures from cascading across dependent services.
-* Designing systems with controlled failure isolation and recovery behavior.
-* Building observability around questions engineers actually need to answer.
-* Investigating incidents by correlating signals across the system rather than treating metrics in isolation.
-* Making infrastructure and operational workflows reproducible.
-* Reducing unnecessary operational complexity through automation.
+## What I Care About
+I'm especially interested in the engineering problems that exist between **application code and infrastructure**—where latency, resource pressure, dependencies, networking, deployments, and operational decisions interact.
 
-The goal is not simply to know that something failed.
+* **Reliable Infrastructure & Reproducibility** — Making infrastructure and operational workflows consistent, repeatable, and easier to reason about.
 
-It is to understand:
+* **Kubernetes & Internal Platforms** — Designing standardized platforms that reduce operational complexity and provide consistent ways to deploy and operate workloads.
+
+* **Distributed Systems & Dependencies** — Understanding how services interact, how dependencies behave under pressure, and how failures propagate across a system.
+
+* **Capacity, Saturation & Performance** — Identifying capacity constraints, understanding latency beyond simple averages, and detecting saturation before degradation becomes a larger incident.
+
+* **Failure Isolation & Recovery** — Preventing failures from cascading across dependent services and designing systems with controlled isolation and recovery behavior.
+
+* **Observability & Operational Visibility** — Building meaningful signals around questions engineers actually need to answer and correlating system behavior rather than viewing metrics in isolation.
+
+* **Infrastructure Analysis & Validation** — Automating the discovery, analysis, and validation of infrastructure and configuration to identify issues before they become operational problems.
+
+* **Deployment Reliability & Operational Automation** — Making changes easier to validate, deploy, observe, and operate while reducing unnecessary manual complexity.
+
+* **System Diagnostics & Incident Investigation** — Understanding what failed, why it failed, how it propagated, and which signals provide useful evidence during investigation.
+
+
+The goal is to understand:
 
 > **What failed, why it failed, how the failure propagated, what signals revealed it, and what the system can do to recover.**
-
----
-
-## What I Build
-
-My projects generally focus on solving problems around:
-
-* Reliable and reproducible infrastructure
-* Kubernetes-based systems and internal platforms
-* Distributed systems behavior
-* Dependency failures and failure propagation
-* Capacity, saturation, and performance behavior
-* Observability and operational visibility
-* Automated infrastructure analysis and validation
-* Deployment reliability and operational automation
-* System diagnostics and incident investigation
-* Recovery mechanisms and resilience patterns
-
----
-
-## Current Focus
-
-I'm continuing to deepen my work in:
-
-**Site Reliability Engineering · Internal Platforms · Kubernetes · Distributed Systems · Failure Analysis · Infrastructure Automation · Linux Systems**
-
-I'm especially interested in the engineering problems that exist between **application code and infrastructure**—where latency, resource pressure, dependencies, networking, deployments, and operational decisions interact.
 
 ---
 
