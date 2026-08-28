@@ -2,7 +2,7 @@
 
 I build **reliable, observable, and automated systems**.
 
-My work focuses on **Site Reliability Engineering, platform engineering, cloud infrastructure, distributed systems, and automation with Python backend**. I enjoy designing systems that are not only capable of running applications, but are also built to handle failure, expose meaningful operational signals, and reduce the manual effort required to operate them.
+My work focuses on **Site Reliability Engineering, platform engineering, cloud infrastructure, distributed systems, and automation with Python**. I enjoy designing systems that are not only capable of running applications, but are also built to handle failure, expose meaningful operational signals, and reduce the manual effort required to operate them.
 
 I'm particularly interested in a simple engineering question:
 
