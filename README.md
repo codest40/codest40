@@ -1,4 +1,4 @@
-# Hi, I'm Mark 👋
+# Hi, I'm Mark
 
 I build **reliable, observable, and automated systems**.
 
