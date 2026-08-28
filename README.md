@@ -1,13 +1,12 @@
-* I’m Mark — a **DevOps & Platform Engineer** with strong **Python backend and Linux systems roots**, focused on building reliable infrastructure, internal platforms, automation, and observable production systems.
 # Hi, I'm Mark 👋
 
 I build **reliable, observable, and automated systems**.
 
-My work focuses on **Site Reliability Engineering, platform engineering, cloud infrastructure, distributed systems, and automation**. I enjoy designing systems that are not only capable of running applications, but are also built to handle failure, expose meaningful operational signals, and reduce the manual effort required to operate them.
+My work focuses on **Site Reliability Engineering, platform engineering, cloud infrastructure, distributed systems, and automation with Python backend**. I enjoy designing systems that are not only capable of running applications, but are also built to handle failure, expose meaningful operational signals, and reduce the manual effort required to operate them.
 
 I'm particularly interested in a simple engineering question:
 
-> **What happens when a system fails, how do we detect it, and how do we prevent that failure from spreading?**
+> **What happens when a system fails, how do we detect it, and how do we ensure that system prevents that failure from spreading?**
 
 That question influences much of what I build.
 
