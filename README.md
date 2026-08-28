@@ -37,7 +37,7 @@ That is why I am interested in understanding the relationship between:
 
 
 ## What I Care About
-I'm especially interested in the engineering problems that exist between **application code and infrastructure**—where latency, resource pressure, dependencies, networking, deployments, and operational decisions interact.
+I'm especially interested in the engineering problems that exist between **application code and infrastructure** ie where latency, resource pressure, dependencies, networking, deployments, and operational decisions interact.
 
 * **Reliable Infrastructure & Reproducibility** — Making infrastructure and operational workflows consistent, repeatable, and easier to reason about.
 
@@ -85,17 +85,6 @@ Python · Bash · Git · GitHub Actions · Argo CD · GitOps · CI/CD
 ### Engineering Focus
 
 Distributed Systems · Infrastructure Reliability · Failure Analysis · Capacity & Saturation · Performance Analysis · Platform Engineering · Operational Automation
-
----
-
-## See My Work
-
-Some of the projects and engineering experiments I'm working on:
-
-* **KubApp** — Internal Kubernetes platform and automated platform intelligence.
-* **Distributed Reliability Lab** — Experiments in failure propagation, saturation, dependency resilience, and recovery behavior.
-
-→ **[Explore my repositories](https://github.com/codest40)**
 
 ---
 
