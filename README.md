@@ -29,8 +29,9 @@ I enjoy taking systems that are **manual, fragile, or difficult to understand** 
 
 ## What I Consider a Healthy System
 
+A healthy platform should assumes that people will make mistakes. A single mistake should not become a serious production incident; it should be caught by validation, isolated in a controlled environment, limited in blast radius, quickly visible, or easy to reverse.
 A system can be healthy one moment and approaching saturation the next. A dependency can be reachable while still being unable to complete useful work. Retries intended to improve reliability can sometimes increase pressure on an already failing service. A successful deployment can reach production while introducing issues that only become visible under real traffic.
-
+So my understanding of a healthy system is in its reliability not status.
 That is why I am interested in understanding the relationship between:
 
 **Validate → Deploy → Load → Latency → Queueing → Saturation → Errors → Failure Propagation → Recovery**
