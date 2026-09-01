@@ -62,4 +62,4 @@ I'm interested in engineering problems involving **cloud infrastructure, applica
 
 **Email:** [aniokemark@gmail.com](mailto:aniokemark@gmail.com)
 
-**LinkedIn:** linkedin.com/in/anioke-mark-7a0373237
+**LinkedIn:** [linkedin](linkedin.com/in/anioke-mark-7a0373237)
