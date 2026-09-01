@@ -18,6 +18,7 @@ I work across the full operational lifecycle of modern systems.
 
 * **Reliability Engineering** — understanding failure modes, dependency behavior, latency, saturation, capacity limits, failure propagation, and recovery.
 * **Infrastructure & Cloud** — building reproducible infrastructure and automated environments that provide a reliable foundation for workloads.
+* **Application Delivery & Packaging** — transforming application source code into reproducible, deployable artifacts through dependency management, validation, testing, builds, containerization, and automated CI/CD workflows.
 * **Kubernetes & Platforms** — designing standardized environments that reduce operational complexity and provide consistent ways to deploy and operate applications.
 * **Observability** — building meaningful metrics, monitoring, and operational signals that help explain what a system is doing and why.
 * **Automation** — replacing repetitive and error-prone operational work with infrastructure automation, Python, Bash, and automated workflows.
