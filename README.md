@@ -2,7 +2,7 @@
 
 I automate application delivery and build the infrastructure and operational systems required to run applications reliably.
 
-My focus is **DevOps, platform engineering, cloud infrastructure, and reliability engineering**. I am particularly interested in the problems at the boundary between applications and infrastructure; ie where deployments, dependencies, capacity, latency, resource pressure, and operational decisions interact.
+My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site reliability engineering**. I am particularly interested in the problems at the boundary between applications and infrastructure; ie where deployments, dependencies, capacity, latency, resource pressure, and operational decisions interact.
 
 ---
 
