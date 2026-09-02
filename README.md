@@ -7,10 +7,9 @@ My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site relia
 ---
 
 ## What I Do
-
+* **Kubernetes & Platforms** — designing standardized environments that make applications easier to deploy, operate, and scale.
 * **Application Delivery & Packaging** — building automated workflows that validate, test, build, package, and containerize applications into reproducible deployable artifacts.
 * **Infrastructure & Cloud** — building reproducible infrastructure and automated environments that provide a reliable foundation for workloads.
-* **Kubernetes & Platforms** — designing standardized environments that make applications easier to deploy, operate, and scale.
 * **Reliability Engineering** — testing and analyzing failure modes, dependencies, latency, saturation, capacity limits, failure propagation, and recovery.
 * **Observability** — building metrics, monitoring, and operational signals that make system behavior visible and explainable.
 * **Automation** — replacing repetitive and error-prone operational work with Python, Bash, infrastructure automation, and CI/CD workflows.
