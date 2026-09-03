@@ -29,7 +29,7 @@ So my understanding of a healthy system is in its reliability, not status. That 
 
 ## What I Care About
 When something goes wrong, I want to know:
-> **What failed, why it failed, how the failure propagated, what signals revealed it, and how the system can recover.**
+ **What failed, why it failed, how the failure propagated, what signals revealed it, and how the system can recover.**
 
 ---
 
