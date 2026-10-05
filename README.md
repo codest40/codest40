@@ -27,6 +27,9 @@ So my understanding of a healthy system is in its reliability, not status. That 
 
 ---
 ### Experiences
+- KUBAPP — Kubernetes Developer Platform
+Kubernetes · AWS · Terraform · Argo CD · Python · Prometheus/Grafana
+
 
 
 ---
