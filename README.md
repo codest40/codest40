@@ -27,8 +27,10 @@ So my understanding of a healthy system is in its reliability, not status. That 
 
 ---
 ### Experiences
-- KUBAPP — Kubernetes Developer Platform (https://github.com/codest40/kubapp_internal_platform)
+- KUBAPP — Kubernetes Developer Platform
 Kubernetes · AWS · Terraform · Argo CD · Python · Monitoring
+https://github.com/codest40/kubapp_internal_platform
+
 
 
 
