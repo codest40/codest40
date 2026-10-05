@@ -26,34 +26,8 @@ So my understanding of a healthy system is in its reliability, not status. That 
 **Validate → Deploy → Load → Latency → Queueing → Saturation → Errors → Failure Propagation → Recovery**
 
 ---
+### Experiences
 
-## What I Care About
-When something goes wrong, I want to know:
- **What failed, why it failed, how the failure propagated, what signals revealed it, and how the system can recover.**
-
----
-
-## Technology
-
-### Cloud & Infrastructure
-
-AWS · Microsoft Azure · Terraform · Linux
-
-### Containers & Orchestration
-
-Docker · Kubernetes · Helm
-
-### Reliability & Observability
-
-Prometheus · Grafana · Alertmanager · Metrics · Monitoring · Alerting · SLIs/SLOs · Incident Analysis
-
-### Automation & Delivery
-
-Python · Bash · Git · GitHub Actions · Argo CD · GitOps · CI/CD
-
-### Engineering Focus
-
-Application Delivery · Cloud Infrastructure · Platform Engineering · Distributed Systems · Reliability Engineering · Failure Analysis · Capacity & Saturation · Operational Automation
 
 ---
 
