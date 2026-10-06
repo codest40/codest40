@@ -1,8 +1,8 @@
 # Hi, I'm Mark
 
-I automate application delivery and build the infrastructure and operational systems required to run applications reliably.
+I build infrastructure, platforms, software delivery pipelines, and the operational systems that support the development, deployment, and reliable operation of software.
 
-My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site reliability engineering**. I am particularly interested in the problems at the boundary between applications and infrastructure; ie where deployments, dependencies, capacity, latency, resource pressure, and operational decisions interact.
+My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site reliability engineering**. I am particularly interested in the problems at the boundary between software and infrastructure: where deployments, dependencies, capacity, latency, resource pressure, and operational decisions interact.
 
 ---
 
@@ -28,7 +28,7 @@ So my understanding of a healthy system is in its reliability, not status. That 
 ---
 ### Experiences
 - KUBAPP — Kubernetes Developer Platform
-Kubernetes · AWS · Terraform · Argo CD · Python · Monitoring
+A self-service platform for validating, deploying, monitoring and operating applications on Kubernetes.
 https://github.com/codest40/kubapp_internal_platform
 
 
