@@ -28,7 +28,7 @@ So my understanding of a healthy system is in its reliability, not status. That 
 ---
 ### Experiences
 - KUBAPP — Kubernetes Developer Platform
-A self-service platform for validating, deploying, monitoring and operating applications on Kubernetes.
+- A self-service platform for validating, deploying, monitoring and operating applications on Kubernetes.
 https://github.com/codest40/kubapp_internal_platform
 
 
