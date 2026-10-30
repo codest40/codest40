@@ -2,7 +2,7 @@
 
 I build infrastructure, platforms, software delivery pipelines, and the operational systems that support the development, deployment, and reliable operation of software.
 
-My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site reliability engineering**. I am particularly interested in the problems at the boundary between software and infrastructure: where deployments, dependencies, capacity, latency, resource pressure, and operational decisions interact.
+My focus is **DevOps, Platform engineering, Cloud infrastructure, and AI integration**. I am particularly interested in the problems at the boundary between software and infrastructure: where deployments, dependencies, capacity, resource pressure, and operational decisions interact.
 
 ---
 
@@ -20,7 +20,7 @@ My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site relia
 
 A healthy platform should assumes that people will make mistakes. A single mistake should not become a serious production incident; it should be caught by validation, isolated in a controlled environment, limited in blast radius, quickly visible, or easy to reverse. A system can be healthy one moment and approaching saturation the next. A dependency can be reachable while still being unable to complete useful work. Retries intended to improve reliability can increase pressure on an already struggling service. A deployment can succeed technically while introducing problems that only become visible under real traffic.
 
-A platform should provide the foundation for deploying and operating software reliably. But when its design is tailored to a specific application, it should go beyond managing deployments and infrastructure. It should understand the application's architecture, dependencies, resource requirements, and failure modes well enough to monitor how its behavior changes under load.
+By default, a platform should provide more than the ability to deploy applications and report whether their workloads are running. It should offer basic visibility into what is happening inside those workloads, how their dependencies behave, and where problems begin to emerge, while deeper SRE practices introduce more rigorous approaches to measuring, analyzing, and improving service reliability. So when the system's design is tailored to a specific application, it should go beyond managing deployments and infrastructure.
 So my understanding of a healthy system is in its reliability, not status. That is why I am interested in understanding the relationship between:
 
 **Validate → Deploy → Load → Latency → Queueing → Saturation → Errors → Failure Propagation → Recovery**
