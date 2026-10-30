@@ -21,9 +21,12 @@ My goal is to turn systems that are **manual, fragile, or difficult to understan
 ## How I Think About Systems
 
 A healthy platform should assumes that people will make mistakes. A single mistake should not become a serious production incident; it should be caught by validation, isolated in a controlled environment, limited in blast radius, quickly visible, or easy to reverse. A system can be healthy one moment and approaching saturation the next. A dependency can be reachable while still being unable to complete useful work. Retries intended to improve reliability can increase pressure on an already struggling service. A deployment can succeed technically while introducing problems that only become visible under real traffic.
+
+A platform should provide the foundation for deploying and operating software reliably. But when its design is tailored to a specific application, it should go beyond managing deployments and infrastructure. It should understand the application's architecture, dependencies, resource requirements, and failure modes well enough to monitor how its behavior changes under load.
 So my understanding of a healthy system is in its reliability, not status. That is why I am interested in understanding the relationship between:
 
 **Validate → Deploy → Load → Latency → Queueing → Saturation → Errors → Failure Propagation → Recovery**
+
 
 ---
 ### Experiences
