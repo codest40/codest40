@@ -14,8 +14,6 @@ My focus is **DevOps, Platform engineering, Cloud infrastructure, and Site relia
 * **Observability** — building metrics, monitoring, and operational signals that make system behavior visible and explainable.
 * **Automation** — replacing repetitive and error-prone operational work with Python, Bash, infrastructure automation, and CI/CD workflows.
 
-My goal is to turn systems that are **manual, fragile, or difficult to understand** into systems that are **repeatable, observable, resilient, and easier to operate**.
-
 ---
 
 ## How I Think About Systems
